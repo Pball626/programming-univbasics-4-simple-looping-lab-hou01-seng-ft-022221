@@ -1,5 +1,5 @@
 
-while loop_message_five_times(message)do
+while loop_message_five_times do(message)
   count = 0
   while count < (5)
   message = ["Hi!"]

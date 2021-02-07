@@ -23,7 +23,7 @@ def output_array(array)
 end
 end
 
-def return_string_array(array)
+def return_string_array(return_string_array)
   count = 0 
   new_array = []
   while count < array.length do
@@ -32,5 +32,4 @@ def return_string_array(array)
     count += 1
   end
   return_string_array
-end
 end
